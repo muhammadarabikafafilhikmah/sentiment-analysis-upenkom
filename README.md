@@ -60,8 +60,7 @@ Dashboard dibangun dengan Streamlit, menampilkan ringkasan hasil analisis (bukan
 - Contoh proses preprocessing teks
 
 ### Tampilan Aplikasi
-![Tampilan Dashboard](<img width="827" height="402" alt="image" src="https://github.com/user-attachments/assets/824ff349-1918-4631-8151-0bb425982b20" />
-)
+![Tampilan Dashboard](https://github.com/user-attachments/assets/824ff349-1918-4631-8151-0bb425982b20)
 
 ## Teknologi yang Digunakan
 
